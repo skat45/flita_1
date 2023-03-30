@@ -1,0 +1,3 @@
+/home/skat45/CLionProjects/Flita_1.3/cmake-build-debug/CMakeFiles/Flita_1_3.dir
+/home/skat45/CLionProjects/Flita_1.3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/skat45/CLionProjects/Flita_1.3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
